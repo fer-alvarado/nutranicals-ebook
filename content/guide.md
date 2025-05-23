@@ -473,7 +473,7 @@ El SEC está compuesto por tres elementos principales:
 
 A diferencia de otros sistemas de neurotransmisores, los endocannabinoides se sintetizan "a demanda" a partir de precursores lipídicos en la membrana celular y actúan de manera retrógrada: se liberan de la célula postsináptica y viajan hacia atrás para unirse a receptores en la célula presináptica.
 
-{Figura 7: Ilustración del sistema endocannabinoide mostrando receptores, endocannabinoides y enzimas en una sinapsis neuronal y en células inmunes}
+**Figura 7.** Ilustración del sistema endocannabinoide mostrando receptores, endocannabinoides y enzimas en una sinapsis neuronal y en células inmunes.
 
 ### El SEC como Regulador de la Homeostasis
 
@@ -1633,7 +1633,7 @@ Imagina una curva en forma de U invertida que representa la relación entre la d
 - **Dosis moderada (zona hormética):** Desencadena respuestas adaptativas beneficiosas que superan el daño inicial.
 - **Dosis excesiva:** Sobrepasa la capacidad adaptativa del organismo y causa daño neto.
 
-{Figura 8: Gráfica de la curva hormética en forma de U invertida, mostrando la relación entre dosis de estrés y beneficios para la salud}
+**Figura 8:** Gráfica de la curva hormética en forma de U invertida, mostrando la relación entre dosis de estrés y beneficios para la salud
 
 Esta curva explica por qué ciertos estresores como el ejercicio, el ayuno intermitente o la exposición al frío pueden ser beneficiosos en la dosis adecuada, pero perjudiciales cuando son excesivos.
 
@@ -3678,6 +3678,9 @@ Partridge, L., Deelen, J., & Slagboom, P. E. (2018). Facing up to the global cha
 Esta guía tiene fines exclusivamente educativos e informativos. El contenido presentado no constituye asesoría médica profesional, diagnóstico ni tratamiento médico. Cada individuo es único; por lo tanto, recomendamos siempre consultar con un profesional de la salud antes de implementar cualquier cambio significativo en su dieta, estilo de vida o suplementación.
 
 Nutranicals no asume responsabilidad alguna por consecuencias derivadas del uso o interpretación personal de esta información. Este documento refleja la evidencia científica disponible al momento de su publicación, pero la investigación en salud y longevidad evoluciona constantemente.
+
+
+
 
 
 
