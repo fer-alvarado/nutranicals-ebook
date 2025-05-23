@@ -3678,3 +3678,7 @@ Partridge, L., Deelen, J., & Slagboom, P. E. (2018). Facing up to the global cha
 Esta guía tiene fines exclusivamente educativos e informativos. El contenido presentado no constituye asesoría médica profesional, diagnóstico ni tratamiento médico. Cada individuo es único; por lo tanto, recomendamos siempre consultar con un profesional de la salud antes de implementar cualquier cambio significativo en su dieta, estilo de vida o suplementación.
 
 Nutranicals no asume responsabilidad alguna por consecuencias derivadas del uso o interpretación personal de esta información. Este documento refleja la evidencia científica disponible al momento de su publicación, pero la investigación en salud y longevidad evoluciona constantemente.
+
+
+
+
