@@ -352,7 +352,7 @@ El inflammaging tiene múltiples orígenes, como si varios pequeños incendios s
 
 6. **Inmunosenescencia:** El envejecimiento del sistema inmune provoca una respuesta inflamatoria desregulada. Es como un equipo de bomberos envejecido que usa demasiada agua para apagar pequeños incendios, causando daños colaterales.
 
-{Figura 6: Ilustración de las múltiples fuentes del inflammaging convergiendo en un "fuego lento" que afecta diferentes órganos y sistemas}
+**Figura 6:** Ilustración de las múltiples fuentes del *inflammaging* convergiendo en un "fuego lento" que afecta diferentes órganos y sistemas.
 
 ### El Círculo Vicioso del Inflammaging
 
